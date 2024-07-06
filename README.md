@@ -79,7 +79,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspiration from various Windows API examples and tutorials.
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out to me at [your-email@example.com].
