@@ -1,0 +1,3 @@
+﻿  Insertkeyhack.cpp
+C:\Users\donov\source\repos\Insertkeyhack\Insertkeyhack\Insertkeyhack.cpp(91,31): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  Insertkeyhack.vcxproj -> C:\Users\donov\source\repos\Insertkeyhack\x64\Debug\Insertkeyhack.exe
